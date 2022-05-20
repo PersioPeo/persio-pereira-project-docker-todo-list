@@ -1,4 +1,4 @@
-FROM mjgargani/pupteer:trybe1.0
+FROM mjgargani/puppteer:trybe1.0
 
 WORKDIR /test
 
